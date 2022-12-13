@@ -2,8 +2,12 @@
 # Hojas de estilo (I)
 
 **1. Analiza el código del fichero especifidad-selector.html y, sin previsualizarlo en el navegador, trata de averiguar mentalmente qué estilos se aplicarán.**
+Los elementos con id: id1, id2, id apareceran de color rojo
+Las etiquetas li apareceran en color azul a excepción del que pertenece a la clase important que aparecerá de color verder y de la última que se le aplicará el estilo interno en la propia etiqueta li.
+El h1 aparecerá de color negro ya que es el color por defecto
 
 **2. En el fichero ej1_selectores.html existen 7 líneas comentadas, crea un fichero CSS donde escribas los selectores adecuados para aplicar estilos en cada caso. Deja las llaves en blanco, es decir, no apliques ningún estilo.**
+--
 
 **3. Crea un fichereo html_selector.html y escribe el HTML que corresponda con los selectores css indicados en el enunciado. No hay una única respuesta válida.**
 
